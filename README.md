@@ -1,4 +1,4 @@
-[![build status main](https://travis-ci.com/manojsai4545/Triangle567,svg?branch=main)](https://travis-ci.com/manojsai4545/Triangle567)
+[![build status main](https://travis-ci.com/manojsai4545/Triangle567.svg?branch=main)](https://travis-ci.com/manojsai4545/Triangle567)
 
 # Triangle Classification
 This repository contains a Python program for classifying triangles based on their side lengths. Additionally, a set of unit tests is provided to ensure the correctness of the triangle classification function.
